@@ -1,8 +1,14 @@
 <!-- UNITY CODE ASSIST INSTRUCTIONS START -->
 - Project name: MiPrimeraCabalgata
 - Unity version: Unity 2023.1.0f1
+- Active scene:
+  - Name: Plataformer
+  - Tags:
+    - Untagged, Respawn, Finish, EditorOnly, MainCamera, Player, GameController
+  - Layers:
+    - Default, TransparentFX, Ignore Raycast, Water, UI
 - Active game object:
-  - Name: Variables
+  - Name: Player
   - Tag: Untagged
   - Layer: Default
 <!-- UNITY CODE ASSIST INSTRUCTIONS END -->
