@@ -24,7 +24,7 @@ public class PlayerMovement : MonoBehaviour
 
 
         //x += 0.1f; 
-       _rb2D.velocity = Vector2.right * velocidad;
+       _rb2D.linearVelocity = Vector2.right * velocidad;
         //x = x + 0.1f;
         //_transform.position = new Vector3(x , 3.85f, 0f);
     }
